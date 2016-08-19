@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image View</string>
+    <string name="button_send">Click</string>
+    <string name="phrase">Click on the button to view the image</string>
+</resources>
